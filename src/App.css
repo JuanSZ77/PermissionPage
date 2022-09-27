@@ -1,0 +1,70 @@
+.h1{
+  color: #4b86b4 ;
+  text-align: center;
+  font-family:'Varela Round', sans-serif;
+}
+.h2{
+  color: #4b86b4 ;
+  text-align: center;
+  font-family:'Varela Round', sans-serif;
+}
+
+.form{
+  margin: auto;
+  padding: 7vh;
+  border: 1px solid black;
+  width: 100vh;
+  border-radius: 5px;
+  background-color:#4b86b4 ;
+}
+/* .body{
+  background:url(./images/Fondo.jpg)center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin-top: 10vh;
+} */
+.body{
+  background-color: #e7eff6  ;
+}
+
+.styleid{
+  color:white ;
+  font-family:'Varela Round', sans-serif;
+  font-size: 3vh;
+}
+
+.formPlace{
+  font-family:'Varela Round', sans-serif;
+  font-size: 2vh;
+}
+
+.send{
+  font-family:'Varela Round', sans-serif;
+  width: 100%;
+  background-color: #011f4b ;
+}
+
+.link{
+  position: absolute;
+   top: 1vh; 
+   right: 2vh;
+   text-decoration: none;
+   font-family:'Varela Round', sans-serif;
+   border-radius: 1vh;
+}
+
+.link:hover{
+  color: black;
+}
+
+.buttonEdit{
+  font-family:'Varela Round', sans-serif;
+   border-radius: 11%;
+   padding: 1vh 2vh;
+   border: 1px solid #4b86b4;
+   background-color: #e7eff6;
+   text-decoration: none;
+   border-radius: 1vh;
+}
